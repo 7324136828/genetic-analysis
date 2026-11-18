@@ -1,0 +1,2051 @@
+{
+ "header": {
+  "type": "esummary",
+  "version": "0.3"
+ },
+ "result": {
+  "uids": [
+   "18390",
+   "9",
+   "7105",
+   "15333",
+   "17865"
+  ],
+  "18390": {
+   "uid": "18390",
+   "obj_type": "single nucleotide variant",
+   "accession": "VCV000018390",
+   "accession_version": "VCV000018390.12",
+   "title": "NM_000690.4(ALDH2):c.1510G>A (p.Glu504Lys)",
+   "variation_set": [
+    {
+     "measure_id": "33429",
+     "variation_xrefs": [
+      {
+       "db_source": "ClinGen",
+       "db_id": "CA128085"
+      },
+      {
+       "db_source": "UniProtKB",
+       "db_id": "P05091#VAR_002248"
+      },
+      {
+       "db_source": "OMIM",
+       "db_id": "100650.0001"
+      },
+      {
+       "db_source": "dbSNP",
+       "db_id": "671"
+      }
+     ],
+     "variation_name": "NM_000690.4(ALDH2):c.1510G>A (p.Glu504Lys)",
+     "cdna_change": "c.1510G>A",
+     "aliases": [
+      "ALDH2*2",
+      "ALDH2, GLU504LYS (rs671)",
+      "GLU487LYS"
+     ],
+     "variation_loc": [
+      {
+       "status": "current",
+       "assembly_name": "GRCh38",
+       "chr": "12",
+       "band": "12q24.12",
+       "start": "111803962",
+       "stop": "111803962",
+       "inner_start": "",
+       "inner_stop": "",
+       "outer_start": "",
+       "outer_stop": "",
+       "display_start": "111803962",
+       "display_stop": "111803962",
+       "assembly_acc_ver": "GCF_000001405.38",
+       "annotation_release": "",
+       "alt": "",
+       "ref": ""
+      },
+      {
+       "status": "previous",
+       "assembly_name": "GRCh37",
+       "chr": "12",
+       "band": "12q24.12",
+       "start": "112241766",
+       "stop": "112241766",
+       "inner_start": "",
+       "inner_stop": "",
+       "outer_start": "",
+       "outer_stop": "",
+       "display_start": "112241766",
+       "display_stop": "112241766",
+       "assembly_acc_ver": "GCF_000001405.25",
+       "annotation_release": "",
+       "alt": "",
+       "ref": ""
+      }
+     ],
+     "allele_freq_set": [
+      {
+       "source": "Exome Aggregation Consortium (ExAC)",
+       "value": "0.02129",
+       "minor_allele": ""
+      },
+      {
+       "source": "The Genome Aggregation Database (gnomAD), exomes",
+       "value": "0.00700",
+       "minor_allele": ""
+      },
+      {
+       "source": "Trans-Omics for Precision Medicine (TOPMed)",
+       "value": "0.00896",
+       "minor_allele": ""
+      },
+      {
+       "source": "The Genome Aggregation Database (gnomAD), exomes",
+       "value": "0.01888",
+       "minor_allele": ""
+      },
+      {
+       "source": "The Genome Aggregation Database (gnomAD)",
+       "value": "0.00596",
+       "minor_allele": ""
+      },
+      {
+       "source": "The Genome Aggregation Database (gnomAD)",
+       "value": "0.00793",
+       "minor_allele": ""
+      },
+      {
+       "source": "1000 Genomes Project",
+       "value": "0.03574",
+       "minor_allele": "A"
+      }
+     ],
+     "variant_type": "single nucleotide variant",
+     "canonical_spdi": "NC_000012.12:111803961:G:A",
+     "common_name": ""
+    }
+   ],
+   "supporting_submissions": {
+    "scv": [
+     "SCV002031268",
+     "SCV000040356",
+     "SCV000040357"
+    ],
+    "rcv": [
+     "RCV000020060",
+     "RCV000020062",
+     "RCV000020058",
+     "RCV000020059",
+     "RCV001290000",
+     "RCV001787815",
+     "RCV005357155",
+     "RCV006272361"
+    ]
+   },
+   "germline_classification": {
+    "description": "drug response",
+    "last_evaluated": "2021/03/24 00:00",
+    "review_status": "reviewed by expert panel",
+    "fda_recognized_database": "",
+    "trait_set": [
+     {
+      "trait_xrefs": [],
+      "trait_name": "ethanol response - Toxicity"
+     }
+    ]
+   },
+   "clinical_impact_classification": {
+    "description": "",
+    "last_evaluated": "1/01/01 00:00",
+    "review_status": "",
+    "fda_recognized_database": "",
+    "trait_set": []
+   },
+   "oncogenicity_classification": {
+    "description": "",
+    "last_evaluated": "1/01/01 00:00",
+    "review_status": "",
+    "fda_recognized_database": "",
+    "trait_set": []
+   },
+   "record_status": "",
+   "gene_sort": "ALDH2",
+   "chr_sort": "12",
+   "location_sort": "00000000000111803962",
+   "variation_set_name": "",
+   "variation_set_id": "",
+   "genes": [
+    {
+     "symbol": "ALDH2",
+     "geneid": "217",
+     "strand": "+",
+     "source": "submitted"
+    }
+   ],
+   "molecular_consequence_list": [
+    "missense variant"
+   ],
+   "protein_change": "E504K, E457K",
+   "fda_recognized_database": ""
+  },
+  "9": {
+   "uid": "9",
+   "obj_type": "single nucleotide variant",
+   "accession": "VCV000000009",
+   "accession_version": "VCV000000009.148",
+   "title": "NM_000410.4(HFE):c.845G>A (p.Cys282Tyr)",
+   "variation_set": [
+    {
+     "measure_id": "15048",
+     "variation_xrefs": [
+      {
+       "db_source": "Genetic Testing Registry (GTR)",
+       "db_id": "GTR000500300"
+      },
+      {
+       "db_source": "Genetic Testing Registry (GTR)",
+       "db_id": "GTR000500796"
+      },
+      {
+       "db_source": "Genetic Testing Registry (GTR)",
+       "db_id": "GTR000556562"
+      },
+      {
+       "db_source": "Genetic Testing Registry (GTR)",
+       "db_id": "GTR000558915"
+      },
+      {
+       "db_source": "Genetic Testing Registry (GTR)",
+       "db_id": "GTR000560787"
+      },
+      {
+       "db_source": "Genetic Testing Registry (GTR)",
+       "db_id": "GTR000568258"
+      },
+      {
+       "db_source": "Genetic Testing Registry (GTR)",
+       "db_id": "GTR000607867"
+      },
+      {
+       "db_source": "Genetic Testing Registry (GTR)",
+       "db_id": "GTR000614845"
+      },
+      {
+       "db_source": "UniProtKB",
+       "db_id": "Q30201#VAR_004398"
+      },
+      {
+       "db_source": "OMIM",
+       "db_id": "613609.0001"
+      },
+      {
+       "db_source": "dbSNP",
+       "db_id": "1800562"
+      },
+      {
+       "db_source": "Genetic Testing Registry (GTR)",
+       "db_id": "GTR000021464"
+      },
+      {
+       "db_source": "Genetic Testing Registry (GTR)",
+       "db_id": "GTR000159973"
+      },
+      {
+       "db_source": "Genetic Testing Registry (GTR)",
+       "db_id": "GTR000219921"
+      },
+      {
+       "db_source": "ClinGen",
+       "db_id": "CA113795"
+      },
+      {
+       "db_source": "Genetic Testing Registry (GTR)",
+       "db_id": "GTR000007768"
+      },
+      {
+       "db_source": "Genetic Testing Registry (GTR)",
+       "db_id": "GTR000264968"
+      },
+      {
+       "db_source": "Genetic Testing Registry (GTR)",
+       "db_id": "GTR000271417"
+      },
+      {
+       "db_source": "Genetic Testing Registry (GTR)",
+       "db_id": "GTR000321635"
+      },
+      {
+       "db_source": "Genetic Testing Registry (GTR)",
+       "db_id": "GTR000323017"
+      }
+     ],
+     "variation_name": "NM_000410.4(HFE):c.845G>A (p.Cys282Tyr)",
+     "cdna_change": "c.845G>A",
+     "aliases": [],
+     "variation_loc": [
+      {
+       "status": "current",
+       "assembly_name": "GRCh38",
+       "chr": "6",
+       "band": "6p22.2",
+       "start": "26092913",
+       "stop": "26092913",
+       "inner_start": "",
+       "inner_stop": "",
+       "outer_start": "",
+       "outer_stop": "",
+       "display_start": "26092913",
+       "display_stop": "26092913",
+       "assembly_acc_ver": "GCF_000001405.38",
+       "annotation_release": "",
+       "alt": "",
+       "ref": ""
+      },
+      {
+       "status": "previous",
+       "assembly_name": "GRCh37",
+       "chr": "6",
+       "band": "6p22.2",
+       "start": "26093141",
+       "stop": "26093141",
+       "inner_start": "",
+       "inner_stop": "",
+       "outer_start": "",
+       "outer_stop": "",
+       "display_start": "26093141",
+       "display_stop": "26093141",
+       "assembly_acc_ver": "GCF_000001405.25",
+       "annotation_release": "",
+       "alt": "",
+       "ref": ""
+      }
+     ],
+     "allele_freq_set": [
+      {
+       "source": "The Genome Aggregation Database (gnomAD)",
+       "value": "0.03738",
+       "minor_allele": ""
+      },
+      {
+       "source": "The Genome Aggregation Database (gnomAD)",
+       "value": "0.03880",
+       "minor_allele": ""
+      },
+      {
+       "source": "The Genome Aggregation Database (gnomAD), exomes",
+       "value": "0.03321",
+       "minor_allele": ""
+      },
+      {
+       "source": "Exome Aggregation Consortium (ExAC)",
+       "value": "0.03243",
+       "minor_allele": ""
+      },
+      {
+       "source": "Trans-Omics for Precision Medicine (TOPMed)",
+       "value": "0.03481",
+       "minor_allele": ""
+      },
+      {
+       "source": "1000 Genomes Project",
+       "value": "0.01258",
+       "minor_allele": "A"
+      }
+     ],
+     "variant_type": "single nucleotide variant",
+     "canonical_spdi": "NC_000006.12:26092912:G:A",
+     "common_name": ""
+    }
+   ],
+   "supporting_submissions": {
+    "scv": [
+     "SCV000493004",
+     "SCV000151394",
+     "SCV000839959"
+    ],
+    "rcv": [
+     "RCV000000019",
+     "RCV000178096",
+     "RCV000210820",
+     "RCV000308358",
+     "RCV000414811",
+     "RCV001248830",
+     "RCV001270034",
+     "RCV001731264",
+     "RCV002280089",
+     "RCV002512585",
+     "RCV003224084",
+     "RCV003493406",
+     "RCV005621842"
+    ]
+   },
+   "germline_classification": {
+    "description": "Pathogenic/Pathogenic, low penetrance; risk factor",
+    "last_evaluated": "2026/08/31 00:00",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "fda_recognized_database": "",
+    "trait_set": [
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "465508"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C3469186"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0021001"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "235200"
+       }
+      ],
+      "trait_name": "Hemochromatosis type 1"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "C4023819"
+       },
+       {
+        "db_source": "Human Phenotype Ontology",
+        "db_id": "HP:0010461"
+       }
+      ],
+      "trait_name": "Abnormality of the male genitalia"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "C0031117"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0005244"
+       },
+       {
+        "db_source": "Human Phenotype Ontology",
+        "db_id": "HP:0009830"
+       },
+       {
+        "db_source": "Human Phenotype Ontology",
+        "db_id": "HP:0003157"
+       },
+       {
+        "db_source": "Human Phenotype Ontology",
+        "db_id": "HP:0003407"
+       },
+       {
+        "db_source": "Human Phenotype Ontology",
+        "db_id": "HP:0007088"
+       },
+       {
+        "db_source": "Human Phenotype Ontology",
+        "db_id": "HP:0007235"
+       },
+       {
+        "db_source": "Human Phenotype Ontology",
+        "db_id": "HP:0007355"
+       }
+      ],
+      "trait_name": "Peripheral neuropathy"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "C4025831"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0003620"
+       },
+       {
+        "db_source": "Human Phenotype Ontology",
+        "db_id": "HP:0000759"
+       },
+       {
+        "db_source": "Human Phenotype Ontology",
+        "db_id": "HP:0003483"
+       }
+      ],
+      "trait_name": "Abnormal peripheral nervous system morphology"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "C0000737"
+       },
+       {
+        "db_source": "Human Phenotype Ontology",
+        "db_id": "HP:0002027"
+       }
+      ],
+      "trait_name": "Abdominal pain"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "C0030193"
+       },
+       {
+        "db_source": "Human Phenotype Ontology",
+        "db_id": "HP:0012531"
+       }
+      ],
+      "trait_name": "Pain"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "C0004941"
+       },
+       {
+        "db_source": "Human Phenotype Ontology",
+        "db_id": "HP:0000708"
+       },
+       {
+        "db_source": "Human Phenotype Ontology",
+        "db_id": "HP:0000715"
+       },
+       {
+        "db_source": "Human Phenotype Ontology",
+        "db_id": "HP:0002368"
+       },
+       {
+        "db_source": "Human Phenotype Ontology",
+        "db_id": "HP:0002456"
+       }
+      ],
+      "trait_name": "Atypical behavior"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "C0497552"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0002320"
+       },
+       {
+        "db_source": "Human Phenotype Ontology",
+        "db_id": "HP:0000707"
+       },
+       {
+        "db_source": "Human Phenotype Ontology",
+        "db_id": "HP:0001333"
+       },
+       {
+        "db_source": "Human Phenotype Ontology",
+        "db_id": "HP:0006987"
+       }
+      ],
+      "trait_name": "Abnormality of the nervous system"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "C2673520"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0012971"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "612635"
+       }
+      ],
+      "trait_name": "Microvascular complications of diabetes, susceptibility to, 7"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "101330"
+       },
+       {
+        "db_source": "Orphanet",
+        "db_id": "443062"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C0268323"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0008296"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "176100"
+       }
+      ],
+      "trait_name": "Familial porphyria cutanea tarda"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "465508"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C3469186"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0021001"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "235200"
+       }
+      ],
+      "trait_name": "Hemochromatosis type 1"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "C3280096"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "614193"
+       }
+      ],
+      "trait_name": "TRANSFERRIN SERUM LEVEL QUANTITATIVE TRAIT LOCUS 2"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "C1863052"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0007088"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "104300"
+       }
+      ],
+      "trait_name": "Alzheimer disease type 1"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "79473"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C0162532"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0008297"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "176200"
+       }
+      ],
+      "trait_name": "Variegate porphyria"
+     },
+     {
+      "trait_xrefs": [],
+      "trait_name": "HFE-related disorder"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "C0392514"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0006507"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "PS235200"
+       }
+      ],
+      "trait_name": "Hereditary hemochromatosis"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "140162"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C0027672"
+       },
+       {
+        "db_source": "MeSH",
+        "db_id": "D009386"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0015356"
+       }
+      ],
+      "trait_name": "Hereditary cancer-predisposing syndrome"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "C0950123"
+       },
+       {
+        "db_source": "MeSH",
+        "db_id": "D030342"
+       }
+      ],
+      "trait_name": "Inborn genetic diseases"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "79230"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C0268060"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0019257"
+       }
+      ],
+      "trait_name": "Juvenile hemochromatosis"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "C3661900"
+       }
+      ],
+      "trait_name": "not provided"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "167848"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C0878544"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0004994"
+       },
+       {
+        "db_source": "Human Phenotype Ontology",
+        "db_id": "HP:0001638"
+       }
+      ],
+      "trait_name": "Cardiomyopathy"
+     }
+    ]
+   },
+   "clinical_impact_classification": {
+    "description": "",
+    "last_evaluated": "1/01/01 00:00",
+    "review_status": "",
+    "fda_recognized_database": "",
+    "trait_set": []
+   },
+   "oncogenicity_classification": {
+    "description": "",
+    "last_evaluated": "1/01/01 00:00",
+    "review_status": "",
+    "fda_recognized_database": "",
+    "trait_set": []
+   },
+   "record_status": "",
+   "gene_sort": "HFE",
+   "chr_sort": "06",
+   "location_sort": "00000000000026092913",
+   "variation_set_name": "",
+   "variation_set_id": "",
+   "genes": [
+    {
+     "symbol": "HFE",
+     "geneid": "3077",
+     "strand": "+",
+     "source": "submitted"
+    }
+   ],
+   "molecular_consequence_list": [
+    "missense variant",
+    "intron variant"
+   ],
+   "protein_change": "C282Y, C176Y, C180Y, C190Y, C194Y, C259Y, C268Y, C102Y, C279Y",
+   "fda_recognized_database": ""
+  },
+  "7105": {
+   "uid": "7105",
+   "obj_type": "Deletion",
+   "accession": "VCV000007105",
+   "accession_version": "VCV000007105.214",
+   "title": "NM_000492.3(CFTR):c.1521_1523del (p.Phe508del)",
+   "variation_set": [
+    {
+     "measure_id": "22144",
+     "variation_xrefs": [
+      {
+       "db_source": "ClinPGx Clinical Annotation",
+       "db_id": "981755820"
+      },
+      {
+       "db_source": "ClinGen",
+       "db_id": "CA118639"
+      },
+      {
+       "db_source": "OMIM",
+       "db_id": "602421.0001"
+      },
+      {
+       "db_source": "dbSNP",
+       "db_id": "113993960"
+      },
+      {
+       "db_source": "Genetic Testing Registry (GTR)",
+       "db_id": "GTR000028916"
+      },
+      {
+       "db_source": "Genetic Testing Registry (GTR)",
+       "db_id": "GTR000074114"
+      },
+      {
+       "db_source": "Genetic Testing Registry (GTR)",
+       "db_id": "GTR000562170"
+      },
+      {
+       "db_source": "Genetic Testing Registry (GTR)",
+       "db_id": "GTR000597400"
+      },
+      {
+       "db_source": "ClinVar",
+       "db_id": "634837"
+      }
+     ],
+     "variation_name": "NM_000492.3(CFTR):c.1521_1523del (p.Phe508del)",
+     "cdna_change": "c.1521_1523del",
+     "aliases": [
+      "F508del",
+      "deltaF508",
+      "F508delF",
+      "DF508",
+      "Phe508del",
+      "DeltaF508",
+      "[delta]F508"
+     ],
+     "variation_loc": [
+      {
+       "status": "current",
+       "assembly_name": "GRCh38",
+       "chr": "7",
+       "band": "7q31.2",
+       "start": "117559591",
+       "stop": "117559593",
+       "inner_start": "",
+       "inner_stop": "",
+       "outer_start": "",
+       "outer_stop": "",
+       "display_start": "117559591",
+       "display_stop": "117559593",
+       "assembly_acc_ver": "GCF_000001405.38",
+       "annotation_release": "",
+       "alt": "",
+       "ref": ""
+      },
+      {
+       "status": "previous",
+       "assembly_name": "GRCh37",
+       "chr": "7",
+       "band": "7q31.2",
+       "start": "117199645",
+       "stop": "117199647",
+       "inner_start": "",
+       "inner_stop": "",
+       "outer_start": "",
+       "outer_stop": "",
+       "display_start": "117199645",
+       "display_stop": "117199647",
+       "assembly_acc_ver": "GCF_000001405.25",
+       "annotation_release": "",
+       "alt": "",
+       "ref": ""
+      }
+     ],
+     "allele_freq_set": [
+      {
+       "source": "1000 Genomes Project",
+       "value": "0.00399",
+       "minor_allele": "T"
+      }
+     ],
+     "variant_type": "Deletion",
+     "canonical_spdi": "NC_000007.14:117559590:TCTT:T",
+     "common_name": ""
+    }
+   ],
+   "supporting_submissions": {
+    "scv": [
+     "SCV000511517",
+     "SCV000594089",
+     "SCV000071493"
+    ],
+    "rcv": [
+     "RCV000007523",
+     "RCV000007524",
+     "RCV000058929",
+     "RCV000119038",
+     "RCV000626692",
+     "RCV000626693",
+     "RCV001004459",
+     "RCV001642198",
+     "RCV001787370",
+     "RCV001831519",
+     "RCV002251888",
+     "RCV001787371",
+     "RCV002243627",
+     "RCV003227599",
+     "RCV002490332",
+     "RCV003444054",
+     "RCV005865162",
+     "RCV006983891"
+    ]
+   },
+   "germline_classification": {
+    "description": "Pathogenic",
+    "last_evaluated": "2004/03/03 00:00",
+    "review_status": "practice guideline",
+    "fda_recognized_database": "",
+    "trait_set": [
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "586"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C0010674"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0009061"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "219700"
+       }
+      ],
+      "trait_name": "Cystic fibrosis"
+     }
+    ]
+   },
+   "clinical_impact_classification": {
+    "description": "",
+    "last_evaluated": "1/01/01 00:00",
+    "review_status": "",
+    "fda_recognized_database": "",
+    "trait_set": []
+   },
+   "oncogenicity_classification": {
+    "description": "",
+    "last_evaluated": "1/01/01 00:00",
+    "review_status": "",
+    "fda_recognized_database": "",
+    "trait_set": []
+   },
+   "record_status": "",
+   "gene_sort": "CFTR",
+   "chr_sort": "07",
+   "location_sort": "00000000000117559591",
+   "variation_set_name": "",
+   "variation_set_id": "",
+   "genes": [
+    {
+     "symbol": "CFTR",
+     "geneid": "1080",
+     "strand": "+",
+     "source": "submitted"
+    },
+    {
+     "symbol": "CFTR-AS1",
+     "geneid": "111082987",
+     "strand": "-",
+     "source": "submitted"
+    }
+   ],
+   "molecular_consequence_list": [
+    "inframe_deletion"
+   ],
+   "protein_change": "",
+   "fda_recognized_database": ""
+  },
+  "15333": {
+   "uid": "15333",
+   "obj_type": "single nucleotide variant",
+   "accession": "VCV000015333",
+   "accession_version": "VCV000015333.184",
+   "title": "NM_000518.5(HBB):c.20A>T (p.Glu7Val)",
+   "variation_set": [
+    {
+     "measure_id": "30372",
+     "variation_xrefs": [
+      {
+       "db_source": "ClinGen",
+       "db_id": "CA125138"
+      },
+      {
+       "db_source": "Genetic Testing Registry (GTR)",
+       "db_id": "GTR000556525"
+      },
+      {
+       "db_source": "Genetic Testing Registry (GTR)",
+       "db_id": "GTR000556557"
+      },
+      {
+       "db_source": "UniProtKB",
+       "db_id": "P68871#VAR_002863"
+      },
+      {
+       "db_source": "OMIM",
+       "db_id": "141900.0039"
+      },
+      {
+       "db_source": "OMIM",
+       "db_id": "141900.0040"
+      },
+      {
+       "db_source": "OMIM",
+       "db_id": "141900.0243"
+      },
+      {
+       "db_source": "OMIM",
+       "db_id": "141900.0244"
+      },
+      {
+       "db_source": "OMIM",
+       "db_id": "141900.0245"
+      },
+      {
+       "db_source": "OMIM",
+       "db_id": "141900.0246"
+      },
+      {
+       "db_source": "OMIM",
+       "db_id": "141900.0247"
+      },
+      {
+       "db_source": "OMIM",
+       "db_id": "141900.0521"
+      },
+      {
+       "db_source": "OMIM",
+       "db_id": "141900.0523"
+      },
+      {
+       "db_source": "dbSNP",
+       "db_id": "334"
+      },
+      {
+       "db_source": "ClinVar",
+       "db_id": "446730"
+      },
+      {
+       "db_source": "ClinVar",
+       "db_id": "446731"
+      },
+      {
+       "db_source": "ClinVar",
+       "db_id": "446735"
+      },
+      {
+       "db_source": "ClinVar",
+       "db_id": "446736"
+      },
+      {
+       "db_source": "ClinVar",
+       "db_id": "446737"
+      },
+      {
+       "db_source": "ClinVar",
+       "db_id": "446738"
+      },
+      {
+       "db_source": "ClinVar",
+       "db_id": "446747"
+      },
+      {
+       "db_source": "ClinVar",
+       "db_id": "446748"
+      }
+     ],
+     "variation_name": "NM_000518.5(HBB):c.20A>T (p.Glu7Val)",
+     "cdna_change": "c.20A>T",
+     "aliases": [
+      "E6V",
+      "HbS"
+     ],
+     "variation_loc": [
+      {
+       "status": "current",
+       "assembly_name": "GRCh38",
+       "chr": "11",
+       "band": "11p15.4",
+       "start": "5227002",
+       "stop": "5227002",
+       "inner_start": "",
+       "inner_stop": "",
+       "outer_start": "",
+       "outer_stop": "",
+       "display_start": "5227002",
+       "display_stop": "5227002",
+       "assembly_acc_ver": "GCF_000001405.38",
+       "annotation_release": "",
+       "alt": "",
+       "ref": ""
+      },
+      {
+       "status": "previous",
+       "assembly_name": "GRCh37",
+       "chr": "11",
+       "band": "11p15.4",
+       "start": "5248232",
+       "stop": "5248232",
+       "inner_start": "",
+       "inner_stop": "",
+       "outer_start": "",
+       "outer_stop": "",
+       "display_start": "5248232",
+       "display_stop": "5248232",
+       "assembly_acc_ver": "GCF_000001405.25",
+       "annotation_release": "",
+       "alt": "",
+       "ref": ""
+      }
+     ],
+     "allele_freq_set": [
+      {
+       "source": "The Genome Aggregation Database (gnomAD), exomes",
+       "value": "0.00348",
+       "minor_allele": ""
+      },
+      {
+       "source": "The Genome Aggregation Database (gnomAD)",
+       "value": "0.01298",
+       "minor_allele": ""
+      },
+      {
+       "source": "The Genome Aggregation Database (gnomAD)",
+       "value": "0.01288",
+       "minor_allele": ""
+      },
+      {
+       "source": "Exome Aggregation Consortium (ExAC)",
+       "value": "0.00438",
+       "minor_allele": ""
+      },
+      {
+       "source": "1000 Genomes Project",
+       "value": "0.02736",
+       "minor_allele": "A"
+      }
+     ],
+     "variant_type": "single nucleotide variant",
+     "canonical_spdi": "NC_000011.10:5227001:T:A",
+     "common_name": ""
+    }
+   ],
+   "supporting_submissions": {
+    "scv": [
+     "SCV000281507",
+     "SCV001743401",
+     "SCV002064353"
+    ],
+    "rcv": [
+     "RCV000016573",
+     "RCV000016574",
+     "RCV000016575",
+     "RCV000224000",
+     "RCV000477892",
+     "RCV000576548",
+     "RCV000623118",
+     "RCV000723337",
+     "RCV001535873",
+     "RCV001824571",
+     "RCV002251908",
+     "RCV002288496",
+     "RCV003150808",
+     "RCV003989286",
+     "RCV005049354",
+     "RCV005357130",
+     "RCV005229802"
+    ]
+   },
+   "germline_classification": {
+    "description": "Pathogenic",
+    "last_evaluated": "2026/07/01 00:00",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "fda_recognized_database": "",
+    "trait_set": [
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "232"
+       },
+       {
+        "db_source": "Orphanet",
+        "db_id": "275752"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C0002895"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0011382"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "603903"
+       }
+      ],
+      "trait_name": "Hb SS disease"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "178330"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C0700299"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0007705"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "140700"
+       },
+       {
+        "db_source": "Human Phenotype Ontology",
+        "db_id": "HP:0005511"
+       }
+      ],
+      "trait_name": "Heinz body anemia"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "CN322236"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0013517"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "613985"
+       }
+      ],
+      "trait_name": "Beta-thalassemia HBB/LCRB"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "846"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C0002312"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0011399"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "604131"
+       }
+      ],
+      "trait_name": "alpha Thalassemia"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "231226"
+       },
+       {
+        "db_source": "Orphanet",
+        "db_id": "848"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C1858990"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0011381"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "603902"
+       }
+      ],
+      "trait_name": "Dominant beta-thalassemia"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "673"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C1970028"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0021024"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "611162"
+       }
+      ],
+      "trait_name": "Malaria, susceptibility to"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "232"
+       },
+       {
+        "db_source": "Orphanet",
+        "db_id": "275752"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C0002895"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0011382"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "603903"
+       }
+      ],
+      "trait_name": "Hb SS disease"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "251380"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C1841621"
+       }
+      ],
+      "trait_name": "Fetal hemoglobin quantitative trait locus 1"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "C4693822"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0054801"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "617980"
+       }
+      ],
+      "trait_name": "Erythrocytosis, familial, 6"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "848"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C0005283"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0019402"
+       }
+      ],
+      "trait_name": "beta Thalassemia"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "178330"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C0700299"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0007705"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "140700"
+       },
+       {
+        "db_source": "Human Phenotype Ontology",
+        "db_id": "HP:0005511"
+       }
+      ],
+      "trait_name": "Heinz body anemia"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "C1840779"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "617971"
+       }
+      ],
+      "trait_name": "METHEMOGLOBINEMIA, BETA TYPE"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "846"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C0002312"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0011399"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "604131"
+       }
+      ],
+      "trait_name": "alpha Thalassemia"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "231226"
+       },
+       {
+        "db_source": "Orphanet",
+        "db_id": "848"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C1858990"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0011381"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "603902"
+       }
+      ],
+      "trait_name": "Dominant beta-thalassemia"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "CN322236"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0013517"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "613985"
+       }
+      ],
+      "trait_name": "Beta-thalassemia HBB/LCRB"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "C0019025"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0020989"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "141749"
+       }
+      ],
+      "trait_name": "Hereditary persistence of fetal hemoglobin"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "673"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C1970028"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0021024"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "611162"
+       }
+      ],
+      "trait_name": "Malaria, susceptibility to"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "232"
+       },
+       {
+        "db_source": "Orphanet",
+        "db_id": "275752"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C0002895"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0011382"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "603903"
+       }
+      ],
+      "trait_name": "Hb SS disease"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "C4693822"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0054801"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "617980"
+       }
+      ],
+      "trait_name": "Erythrocytosis, familial, 6"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "178330"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C0700299"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0007705"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "140700"
+       },
+       {
+        "db_source": "Human Phenotype Ontology",
+        "db_id": "HP:0005511"
+       }
+      ],
+      "trait_name": "Heinz body anemia"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "CN322236"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0013517"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "613985"
+       }
+      ],
+      "trait_name": "Beta-thalassemia HBB/LCRB"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "C0019025"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0020989"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "141749"
+       }
+      ],
+      "trait_name": "Hereditary persistence of fetal hemoglobin"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "C1840779"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "617971"
+       }
+      ],
+      "trait_name": "METHEMOGLOBINEMIA, BETA TYPE"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "231226"
+       },
+       {
+        "db_source": "Orphanet",
+        "db_id": "848"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C1858990"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0011381"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "603902"
+       }
+      ],
+      "trait_name": "Dominant beta-thalassemia"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "C0950123"
+       },
+       {
+        "db_source": "MeSH",
+        "db_id": "D030342"
+       }
+      ],
+      "trait_name": "Inborn genetic diseases"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "CN239378"
+       }
+      ],
+      "trait_name": "HBB-related disorder"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "C3661900"
+       }
+      ],
+      "trait_name": "not provided"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "251365"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C0019034"
+       },
+       {
+        "db_source": "MeSH",
+        "db_id": "D006450"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0016669"
+       }
+      ],
+      "trait_name": "Sickle cell-hemoglobin C disease"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "232"
+       },
+       {
+        "db_source": "Orphanet",
+        "db_id": "275752"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C0002895"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0011382"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "603903"
+       }
+      ],
+      "trait_name": "Hb SS disease"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "848"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C0005283"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0019402"
+       }
+      ],
+      "trait_name": "beta Thalassemia"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "673"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C1970028"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0021024"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "611162"
+       }
+      ],
+      "trait_name": "Malaria, susceptibility to"
+     },
+     {
+      "trait_xrefs": [],
+      "trait_name": "See cases"
+     }
+    ]
+   },
+   "clinical_impact_classification": {
+    "description": "",
+    "last_evaluated": "1/01/01 00:00",
+    "review_status": "",
+    "fda_recognized_database": "",
+    "trait_set": []
+   },
+   "oncogenicity_classification": {
+    "description": "",
+    "last_evaluated": "1/01/01 00:00",
+    "review_status": "",
+    "fda_recognized_database": "",
+    "trait_set": []
+   },
+   "record_status": "",
+   "gene_sort": "HBB",
+   "chr_sort": "11",
+   "location_sort": "00000000000005227002",
+   "variation_set_name": "",
+   "variation_set_id": "",
+   "genes": [
+    {
+     "symbol": "HBB",
+     "geneid": "3043",
+     "strand": "-",
+     "source": "submitted"
+    },
+    {
+     "symbol": "LOC106099062",
+     "geneid": "106099062",
+     "strand": "+",
+     "source": "submitted"
+    },
+    {
+     "symbol": "LOC107133510",
+     "geneid": "107133510",
+     "strand": "+",
+     "source": "submitted"
+    }
+   ],
+   "molecular_consequence_list": [
+    "missense variant"
+   ],
+   "protein_change": "E7V",
+   "fda_recognized_database": ""
+  },
+  "17865": {
+   "uid": "17865",
+   "obj_type": "single nucleotide variant",
+   "accession": "VCV000017865",
+   "accession_version": "VCV000017865.4",
+   "title": "NM_000041.4(APOE):c.488G>A (p.Arg163His)",
+   "variation_set": [
+    {
+     "measure_id": "32904",
+     "variation_xrefs": [
+      {
+       "db_source": "ClinGen",
+       "db_id": "CA127513"
+      },
+      {
+       "db_source": "UniProtKB",
+       "db_id": "P02649#VAR_000660"
+      },
+      {
+       "db_source": "OMIM",
+       "db_id": "107741.0018"
+      },
+      {
+       "db_source": "dbSNP",
+       "db_id": "121918397"
+      }
+     ],
+     "variation_name": "NM_000041.4(APOE):c.488G>A (p.Arg163His)",
+     "cdna_change": "c.488G>A",
+     "aliases": [
+      "R145H"
+     ],
+     "variation_loc": [
+      {
+       "status": "current",
+       "assembly_name": "GRCh38",
+       "chr": "19",
+       "band": "19q13.32",
+       "start": "44908784",
+       "stop": "44908784",
+       "inner_start": "",
+       "inner_stop": "",
+       "outer_start": "",
+       "outer_stop": "",
+       "display_start": "44908784",
+       "display_stop": "44908784",
+       "assembly_acc_ver": "GCF_000001405.38",
+       "annotation_release": "",
+       "alt": "",
+       "ref": ""
+      },
+      {
+       "status": "previous",
+       "assembly_name": "GRCh37",
+       "chr": "19",
+       "band": "19q13.32",
+       "start": "45412041",
+       "stop": "45412041",
+       "inner_start": "",
+       "inner_stop": "",
+       "outer_start": "",
+       "outer_stop": "",
+       "display_start": "45412041",
+       "display_stop": "45412041",
+       "assembly_acc_ver": "GCF_000001405.25",
+       "annotation_release": "",
+       "alt": "",
+       "ref": ""
+      }
+     ],
+     "allele_freq_set": [
+      {
+       "source": "The Genome Aggregation Database (gnomAD), exomes",
+       "value": "0.00001",
+       "minor_allele": ""
+      },
+      {
+       "source": "Trans-Omics for Precision Medicine (TOPMed)",
+       "value": "0.00001",
+       "minor_allele": ""
+      }
+     ],
+     "variant_type": "single nucleotide variant",
+     "canonical_spdi": "NC_000019.10:44908783:G:A",
+     "common_name": ""
+    }
+   ],
+   "supporting_submissions": {
+    "scv": [
+     "SCV000039739",
+     "SCV002521118",
+     "SCV007516982"
+    ],
+    "rcv": [
+     "RCV000019449",
+     "RCV002250463",
+     "RCV006629062"
+    ]
+   },
+   "germline_classification": {
+    "description": "Conflicting classifications of pathogenicity",
+    "last_evaluated": "2024/06/12 00:00",
+    "review_status": "criteria provided, conflicting classifications",
+    "fda_recognized_database": "",
+    "trait_set": [
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "MedGen",
+        "db_id": "C0020445"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0005439"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "PS143890"
+       }
+      ],
+      "trait_name": "Familial hypercholesterolemia"
+     },
+     {
+      "trait_xrefs": [
+       {
+        "db_source": "Orphanet",
+        "db_id": "329481"
+       },
+       {
+        "db_source": "MedGen",
+        "db_id": "C2673196"
+       },
+       {
+        "db_source": "MONDO",
+        "db_id": "MONDO:0012725"
+       },
+       {
+        "db_source": "OMIM",
+        "db_id": "611771"
+       }
+      ],
+      "trait_name": "Lipoprotein glomerulopathy"
+     }
+    ]
+   },
+   "clinical_impact_classification": {
+    "description": "",
+    "last_evaluated": "1/01/01 00:00",
+    "review_status": "",
+    "fda_recognized_database": "",
+    "trait_set": []
+   },
+   "oncogenicity_classification": {
+    "description": "",
+    "last_evaluated": "1/01/01 00:00",
+    "review_status": "",
+    "fda_recognized_database": "",
+    "trait_set": []
+   },
+   "record_status": "",
+   "gene_sort": "APOE",
+   "chr_sort": "19",
+   "location_sort": "00000000000044908784",
+   "variation_set_name": "",
+   "variation_set_id": "",
+   "genes": [
+    {
+     "symbol": "APOE",
+     "geneid": "348",
+     "strand": "+",
+     "source": "submitted"
+    }
+   ],
+   "molecular_consequence_list": [
+    "missense variant"
+   ],
+   "protein_change": "R163H, R189H",
+   "fda_recognized_database": ""
+  }
+ }
+}

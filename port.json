@@ -1,0 +1,5 @@
+{
+  "_comment": "run.bat / launch.py pick the FIRST free port from each list (backend and frontend never share one). Edit the lists to change the candidates.",
+  "backend": [8000, 8001, 8002, 8003, 8004, 8005, 8006, 8007, 8008, 8009],
+  "frontend": [5173, 5174, 5175, 5176, 5177, 5178, 5179, 5180, 5181, 5182]
+}

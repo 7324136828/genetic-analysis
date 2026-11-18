@@ -1,0 +1,375 @@
+{
+ "header": {
+  "type": "esummary",
+  "version": "0.3"
+ },
+ "result": {
+  "uids": [
+   "39928694",
+   "33355142",
+   "32009064",
+   "25741868",
+   "22992668",
+   "20010786",
+   "18056758",
+   "17885622",
+   "16679777",
+   "16440063"
+  ],
+  "39928694": {
+   "uid": "39928694",
+   "pubdate": "2025 May 1",
+   "epubdate": "2025 May 1",
+   "source": "J Cardiovasc Pharmacol",
+   "fulljournalname": "Journal of cardiovascular pharmacology",
+   "title": "Relationship Between Aldehyde Dehydrogenase 2 Gene Polymorphism and Vasodilative Effect of Nitroglycerin on Coronary Arteries.",
+   "authors": [
+    {
+     "name": "Zhang K",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "He C",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Tong Y",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "He Y",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "sortpubdate": "2025/05/01 00:00"
+  },
+  "33355142": {
+   "uid": "33355142",
+   "pubdate": "2020 Dec",
+   "epubdate": "2020 Dec 18",
+   "source": "Sci Adv",
+   "fulljournalname": "Science advances",
+   "title": "Digenic mutations in ALDH2 and ADH5 impair formaldehyde clearance and cause a multisystem disorder, AMeD syndrome.",
+   "authors": [
+    {
+     "name": "Oka Y",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Hamada M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Nakazawa Y",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Muramatsu H",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Okuno Y",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "sortpubdate": "2020/12/18 00:00"
+  },
+  "32009064": {
+   "uid": "32009064",
+   "pubdate": "2020 Feb 25",
+   "epubdate": "2020 Jan 31",
+   "source": "Circ J",
+   "fulljournalname": "Circulation journal : official journal of the Japanese Circulation Society",
+   "title": "East Asians Variant Mitochondrial Aldehyde Dehydrogenase 2 Genotype Exacerbates Nitrate Tolerance in Patients With Coronary Spastic Angina.",
+   "authors": [
+    {
+     "name": "Mizuno Y",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Harada E",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Kugimiya F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Shono M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Kusumegi I",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "sortpubdate": "2020/02/25 00:00"
+  },
+  "25741868": {
+   "uid": "25741868",
+   "pubdate": "2015 May",
+   "epubdate": "2015 Mar 5",
+   "source": "Genet Med",
+   "fulljournalname": "Genetics in medicine : official journal of the American College of Medical Genetics",
+   "title": "Standards and guidelines for the interpretation of sequence variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathology.",
+   "authors": [
+    {
+     "name": "Richards S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Aziz N",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Bale S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Bick D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Das S",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "sortpubdate": "2015/05/01 00:00"
+  },
+  "22992668": {
+   "uid": "22992668",
+   "pubdate": "2012 Oct",
+   "epubdate": "",
+   "source": "Clin Pharmacol Ther",
+   "fulljournalname": "Clinical pharmacology and therapeutics",
+   "title": "Pharmacogenomics knowledge for personalized medicine.",
+   "authors": [
+    {
+     "name": "Whirl-Carrillo M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "McDonagh EM",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Hebert JM",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Gong L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Sangkuhl K",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "sortpubdate": "2012/10/01 00:00"
+  },
+  "20010786": {
+   "uid": "20010786",
+   "pubdate": "2010 Feb",
+   "epubdate": "2009 Dec 11",
+   "source": "J Hum Genet",
+   "fulljournalname": "Journal of human genetics",
+   "title": "Alcohol dehydrogenase-2 and aldehyde dehydrogenase-2 genotypes, alcohol drinking and the risk for esophageal cancer in a Chinese population.",
+   "authors": [
+    {
+     "name": "Ding JH",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Li SP",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Cao HX",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Wu JZ",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Gao CM",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "sortpubdate": "2010/02/01 00:00"
+  },
+  "18056758": {
+   "uid": "18056758",
+   "pubdate": "2008 Mar 15",
+   "epubdate": "2007 Dec 4",
+   "source": "Hum Mol Genet",
+   "fulljournalname": "Human molecular genetics",
+   "title": "Major genetic components underlying alcoholism in Korean population.",
+   "authors": [
+    {
+     "name": "Kim DJ",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Choi IG",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Park BL",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Lee BC",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Ham BJ",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "sortpubdate": "2008/03/15 00:00"
+  },
+  "17885622": {
+   "uid": "17885622",
+   "pubdate": "2007 Oct",
+   "epubdate": "",
+   "source": "Pharmacogenet Genomics",
+   "fulljournalname": "Pharmacogenetics and genomics",
+   "title": "Pharmacokinetic and pharmacodynamic basis for partial protection against alcoholism in Asians, heterozygous for the variant ALDH2*2 gene allele.",
+   "authors": [
+    {
+     "name": "Peng GS",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Chen YC",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Tsao TP",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Wang MF",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Yin SJ",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "sortpubdate": "2007/10/01 00:00"
+  },
+  "16679777": {
+   "uid": "16679777",
+   "pubdate": "2006",
+   "epubdate": "2006 May 4",
+   "source": "Neuropsychobiology",
+   "fulljournalname": "Neuropsychobiology",
+   "title": "Association of mu-opioid receptor gene polymorphism A118G with alcohol dependence in a Japanese population.",
+   "authors": [
+    {
+     "name": "Nishizawa D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Han W",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Hasegawa J",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Ishida T",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Numata Y",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "sortpubdate": "2006/01/01 00:00"
+  },
+  "16440063": {
+   "uid": "16440063",
+   "pubdate": "2006 Feb",
+   "epubdate": "2006 Jan 26",
+   "source": "J Clin Invest",
+   "fulljournalname": "The Journal of clinical investigation",
+   "title": "Mitochondrial aldehyde dehydrogenase-2 (ALDH2) Glu504Lys polymorphism contributes to the variation in efficacy of sublingual nitroglycerin.",
+   "authors": [
+    {
+     "name": "Li Y",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Zhang D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Jin W",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Shao C",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Yan P",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "sortpubdate": "2006/02/01 00:00"
+  }
+ }
+}

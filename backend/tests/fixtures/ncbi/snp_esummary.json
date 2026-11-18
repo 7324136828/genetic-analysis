@@ -1,0 +1,446 @@
+{
+ "header": {
+  "type": "esummary",
+  "version": "0.3"
+ },
+ "result": {
+  "uids": [
+   "671",
+   "1800562",
+   "334",
+   "113993960"
+  ],
+  "671": {
+   "uid": "671",
+   "snp_id": 671,
+   "allele_origin": "",
+   "global_mafs": [
+    {
+     "study": "1000Genomes",
+     "freq": "A=0.0357428/179"
+    },
+    {
+     "study": "1000Genomes_30X",
+     "freq": "A=0.0335728/215"
+    },
+    {
+     "study": "ALSPAC",
+     "freq": "A=0.0010379/4"
+    },
+    {
+     "study": "Daghestan",
+     "freq": "A=0.0053957/6"
+    },
+    {
+     "study": "ExAC",
+     "freq": "A=0.0212867/1878"
+    },
+    {
+     "study": "GnomAD_exomes",
+     "freq": "A=0.0069985/9771"
+    },
+    {
+     "study": "GnomAD_genomes",
+     "freq": "A=0.0079314/1183"
+    },
+    {
+     "study": "HapMap",
+     "freq": "A=0.1299213/99"
+    },
+    {
+     "study": "KOREAN",
+     "freq": "A=0.1725906/505"
+    },
+    {
+     "study": "Korea1K",
+     "freq": "A=0.1555677/285"
+    },
+    {
+     "study": "Korea4K",
+     "freq": "A=0.1595245/1154"
+    },
+    {
+     "study": "PAGE_STUDY",
+     "freq": "A=0.0271658/2138"
+    },
+    {
+     "study": "PRJEB36033",
+     "freq": "A=0./0"
+    },
+    {
+     "study": "SGDP_PRJ",
+     "freq": "G=0.5/11"
+    },
+    {
+     "study": "TOMMO",
+     "freq": "A=0.1936625/14998"
+    },
+    {
+     "study": "TOPMED",
+     "freq": "A=0.0089576/2371"
+    },
+    {
+     "study": "TWINSUK",
+     "freq": "A=0./0"
+    },
+    {
+     "study": "Vietnamese",
+     "freq": "A=0.2086093/126"
+    },
+    {
+     "study": "ALFA",
+     "freq": "A=0.0060531/1921"
+    }
+   ],
+   "global_population": "",
+   "global_samplesize": "",
+   "suspected": "",
+   "clinical_significance": "risk-factor,pathogenic,drug-response,protective",
+   "genes": [
+    {
+     "name": "ALDH2",
+     "gene_id": "217"
+    }
+   ],
+   "acc": "NC_000012.12",
+   "chr": "12",
+   "handle": "JMKIDD_LAB,PAGE_STUDY,KIDDLAB,GNOMAD,EVA,IMCJ-GDT,WIAF,GMI,HUMAN_LONGEVITY,AFFY,KOGIC,EVA_SVP,YY_MCH,GRF,EVA_UK10K_ALSPAC,1000GENOMES,TOMMO_GENOMICS,HUGCELL_USP,KHV_HUMAN_GENOMES,SANFORD_IMAGENETICS,T",
+   "spdi": "NC_000012.12:111803961:G:A",
+   "fxn_class": "missense_variant,coding_sequence_variant",
+   "validated": "by-frequency,by-alfa,by-cluster",
+   "docsum": "HGVS=NC_000012.12:g.111803962G>A,NC_000012.11:g.112241766G>A,NG_012250.2:g.42076G>A,NM_000690.4:c.1510G>A,NM_000690.3:c.1510G>A,NM_001204889.2:c.1369G>A,NM_001204889.1:c.1369G>A,NP_000681.2:p.Glu504Ly",
+   "tax_id": 9606,
+   "orig_build": 36,
+   "upd_build": 157,
+   "createdate": "2000/09/19 17:02",
+   "updatedate": "2024/11/03 17:09",
+   "ss": "676,5586234,6312391,6396276,22886662,23975064,69120732,74897004,80753382,154376947,159552805,160800710,174079322,242617061,244239102,244306137,281549272,410800718,469414445,469415096,481326066,4813513",
+   "allele": "R",
+   "snp_class": "snv",
+   "chrpos": "12:111803962",
+   "chrpos_prev_assm": "12:112241766",
+   "text": "",
+   "snp_id_sort": "0000000671",
+   "clinical_sort": "1",
+   "cited_sort": "",
+   "chrpos_sort": "0111803962",
+   "merged_sort": "0"
+  },
+  "1800562": {
+   "uid": "1800562",
+   "snp_id": 1800562,
+   "allele_origin": "",
+   "global_mafs": [
+    {
+     "study": "1000Genomes",
+     "freq": "A=0.01258/63"
+    },
+    {
+     "study": "1000Genomes_30X",
+     "freq": "A=0.01218/78"
+    },
+    {
+     "study": "ALSPAC",
+     "freq": "A=0.079398/306"
+    },
+    {
+     "study": "Chileans",
+     "freq": "A=0.017572/11"
+    },
+    {
+     "study": "Daghestan",
+     "freq": "A=0.02011/22"
+    },
+    {
+     "study": "Estonian",
+     "freq": "A=0.042634/191"
+    },
+    {
+     "study": "ExAC",
+     "freq": "A=0.032432/3937"
+    },
+    {
+     "study": "FINRISK",
+     "freq": "A=0.032895/10"
+    },
+    {
+     "study": "GENOME_DK",
+     "freq": "A=0.025/1"
+    },
+    {
+     "study": "GnomAD_genomes",
+     "freq": "A=0.037385/5580"
+    },
+    {
+     "study": "GoNL",
+     "freq": "A=0.054108/54"
+    },
+    {
+     "study": "HGDP_Stanford",
+     "freq": "A=0.007198/15"
+    },
+    {
+     "study": "HapMap",
+     "freq": "A=0.018946/23"
+    },
+    {
+     "study": "MGP",
+     "freq": "A=0.031835/17"
+    },
+    {
+     "study": "NorthernSweden",
+     "freq": "A=0.075/45"
+    },
+    {
+     "study": "PAGE_STUDY",
+     "freq": "A=0.013888/1093"
+    },
+    {
+     "study": "PRJEB36033",
+     "freq": "A=0./0"
+    },
+    {
+     "study": "PRJEB37584",
+     "freq": "A=0.001263/1"
+    },
+    {
+     "study": "Qatari",
+     "freq": "A=0.00463/1"
+    },
+    {
+     "study": "SGDP_PRJ",
+     "freq": "G=0.5/6"
+    },
+    {
+     "study": "Siberian",
+     "freq": "G=0.5/1"
+    },
+    {
+     "study": "TOMMO",
+     "freq": "A=0.000103/8"
+    },
+    {
+     "study": "TOPMED",
+     "freq": "A=0.034807/9213"
+    },
+    {
+     "study": "TWINSUK",
+     "freq": "A=0.06904/256"
+    },
+    {
+     "study": "ALFA",
+     "freq": "A=0.052719/16242"
+    }
+   ],
+   "global_population": "",
+   "global_samplesize": "",
+   "suspected": "",
+   "clinical_significance": "pathogenic,not-provided,other,pathogenic-pathogenic-low-penetrance,risk-factor,no-classifications-from-unflagged-records",
+   "genes": [
+    {
+     "name": "HFE",
+     "gene_id": "3077"
+    },
+    {
+     "name": "HFE-AS1",
+     "gene_id": "108783645"
+    }
+   ],
+   "acc": "NC_000006.12",
+   "chr": "6",
+   "handle": "OMICIA,HGDP,SGDP_PRJ,EGP_SNPS,TOPMED,LNCC-LABINFO,EVA_UK10K_ALSPAC,HUGCELL_USP,TRAN_CS_UWATERLOO,SWEGEN,PAGE_CC,ACPOP,SNP500CANCER,BIOINF_KMB_FNS_UNIBA,SEATTLESEQ,JMKIDD_LAB,WEILL_CORNELL_DGM,1000G_HI",
+   "spdi": "NC_000006.12:26092912:G:A,NC_000006.12:26092912:G:T",
+   "fxn_class": "upstream_transcript_variant,non_coding_transcript_variant,2KB_upstream_variant,missense_variant,intron_variant,coding_sequence_variant",
+   "validated": "by-frequency,by-alfa,by-cluster",
+   "docsum": "HGVS=NC_000006.12:g.26092913G>A,NC_000006.12:g.26092913G>T,NC_000006.11:g.26093141G>A,NC_000006.11:g.26093141G>T,NG_008720.2:g.10633G>A,NG_008720.2:g.10633G>T,NM_000410.4:c.845G>A,NM_000410.4:c.845G>T",
+   "tax_id": 9606,
+   "orig_build": 89,
+   "upd_build": 157,
+   "createdate": "2000/11/14 13:27",
+   "updatedate": "2024/10/31 17:44",
+   "ss": "2420669,5586582,24365242,65843448,66077890,66577872,67197007,67585966,68969475,70675219,71238231,74935970,76015380,79094227,83877451,95209990,121814162,153736398,159329747,159711412,170436801,17081544",
+   "allele": "D",
+   "snp_class": "snv",
+   "chrpos": "6:26092913",
+   "chrpos_prev_assm": "6:26093141",
+   "text": "",
+   "snp_id_sort": "0001800562",
+   "clinical_sort": "1",
+   "cited_sort": "",
+   "chrpos_sort": "0026092913",
+   "merged_sort": "0"
+  },
+  "334": {
+   "uid": "334",
+   "snp_id": 334,
+   "allele_origin": "",
+   "global_mafs": [
+    {
+     "study": "1000Genomes",
+     "freq": "A=0.027356/137"
+    },
+    {
+     "study": "1000Genomes_30X",
+     "freq": "A=0.028732/184"
+    },
+    {
+     "study": "ExAC",
+     "freq": "A=0.004384/532"
+    },
+    {
+     "study": "GnomAD_genomes",
+     "freq": "A=0.012876/1922"
+    },
+    {
+     "study": "HapMap",
+     "freq": "A=0.040373/13"
+    },
+    {
+     "study": "KOREAN",
+     "freq": "G=0.001711/5"
+    },
+    {
+     "study": "Korea1K",
+     "freq": "G=0.000546/1"
+    },
+    {
+     "study": "PRJEB36033",
+     "freq": "A=0./0"
+    },
+    {
+     "study": "Qatari",
+     "freq": "A=0.018519/4"
+    },
+    {
+     "study": "SGDP_PRJ",
+     "freq": "T=0.5/5"
+    },
+    {
+     "study": "ALFA",
+     "freq": "A=0.000785/35"
+    }
+   ],
+   "global_population": "",
+   "global_samplesize": "",
+   "suspected": "",
+   "clinical_significance": "not-provided,protective,likely-benign,pathogenic,other",
+   "genes": [
+    {
+     "name": "HBB",
+     "gene_id": "3043"
+    }
+   ],
+   "acc": "NC_000011.10",
+   "chr": "11",
+   "handle": "ILLUMINA,PERLEGEN,CLINSEQ_SNP,1000G_HIGH_COVERAGE,OMIM-CURATED-RECORDS,KHV_HUMAN_GENOMES,EVA_EXAC,KOGIC,WEILL_CORNELL_DGM,COMPLETE_GENOMICS,EXOME_CHIP,AFFY,HBVAR,GNOMAD,MILLER_NIDDK,ITMI,SGDP_PRJ,1000",
+   "spdi": "NC_000011.10:5227001:T:A,NC_000011.10:5227001:T:C,NC_000011.10:5227001:T:G",
+   "fxn_class": "coding_sequence_variant,missense_variant",
+   "validated": "by-frequency,by-alfa,by-cluster",
+   "docsum": "HGVS=NC_000011.10:g.5227002T>A,NC_000011.10:g.5227002T>C,NC_000011.10:g.5227002T>G,NC_000011.9:g.5248232T>A,NC_000011.9:g.5248232T>C,NC_000011.9:g.5248232T>G,NG_000007.3:g.70614A>T,NG_000007.3:g.70614",
+   "tax_id": 9606,
+   "orig_build": 36,
+   "upd_build": 157,
+   "createdate": "2000/09/19 17:02",
+   "updatedate": "2024/11/01 07:22",
+   "ss": "335,24811263,48419811,49850538,49850540,49850542,49850544,49850546,49850548,49850550,49850552,49850554,49850555,65658196,69307501,79088884,79088886,79089796,159722269,168938347,212960460,225064977,263",
+   "allele": "N",
+   "snp_class": "snv",
+   "chrpos": "11:5227002",
+   "chrpos_prev_assm": "11:5248232",
+   "text": "",
+   "snp_id_sort": "0000000334",
+   "clinical_sort": "1",
+   "cited_sort": "",
+   "chrpos_sort": "0005227002",
+   "merged_sort": "0"
+  },
+  "113993960": {
+   "uid": "113993960",
+   "snp_id": 113993960,
+   "allele_origin": "",
+   "global_mafs": [
+    {
+     "study": "1000Genomes",
+     "freq": "-=0.0039936/20"
+    },
+    {
+     "study": "1000Genomes_30X",
+     "freq": "-=0.0039038/25"
+    },
+    {
+     "study": "Estonian",
+     "freq": "-=0.0071429/32"
+    },
+    {
+     "study": "ExAC",
+     "freq": "-=0.0067851/823"
+    },
+    {
+     "study": "GnomAD_exomes",
+     "freq": "-=0.0124506/17428"
+    },
+    {
+     "study": "GnomAD_genomes",
+     "freq": "-=0.0079298/1183"
+    },
+    {
+     "study": "GoNL",
+     "freq": "-=0.0190381/19"
+    },
+    {
+     "study": "NorthernSweden",
+     "freq": "-=0.01/6"
+    },
+    {
+     "study": "PAGE_STUDY",
+     "freq": "-=0.0035453/279"
+    },
+    {
+     "study": "TOPMED",
+     "freq": "-=0.0078507/2078"
+    },
+    {
+     "study": "ALFA",
+     "freq": "T=0.003121/290"
+    }
+   ],
+   "global_population": "",
+   "global_samplesize": "",
+   "suspected": "",
+   "clinical_significance": "risk-factor,pathogenic,likely-pathogenic,drug-response",
+   "genes": [
+    {
+     "name": "CFTR",
+     "gene_id": "1080"
+    },
+    {
+     "name": "CFTR-AS1",
+     "gene_id": "111082987"
+    }
+   ],
+   "acc": "NC_000007.14",
+   "chr": "7",
+   "handle": "EVA-GONL,AFFY,ACPOP,SNPEDIA,CLINVAR,1000G_HIGH_COVERAGE,SWEGEN,JJLAB,EVA,SANFORD_IMAGENETICS,ILLUMINA,EGCUT_WGS,NCBI-CURATED-RECORDS,EVA_DECODE,EVA_EXAC,GNOMAD,PAGE_CC,1000GENOMES,TOPMED,HUGCELL_USP",
+   "spdi": "NC_000007.14:117559590:TCTT:T,NC_000007.14:117559590:TCTT:TCTTCTT",
+   "fxn_class": "intron_variant,inframe_deletion,inframe_insertion,coding_sequence_variant",
+   "validated": "by-frequency,by-alfa,by-cluster",
+   "docsum": "HGVS=NC_000007.14:g.117559592_117559594del,NC_000007.14:g.117559592_117559594dup,NC_000007.13:g.117199646_117199648del,NC_000007.13:g.117199646_117199648dup,NG_016465.4:g.98809_98811del,NG_016465.4:g.",
+   "tax_id": 9606,
+   "orig_build": 132,
+   "upd_build": 157,
+   "createdate": "2010/07/08 12:50",
+   "updatedate": "2024/10/31 22:09",
+   "ss": "252440416,263192966,499991547,984713522,1377595314,1594298901,1711868788,1751113321,1959046051,1959046052,2030866475,2985418268,2986049754,3001909639,3022772844,3022772845,3022772847,3653307715,365330",
+   "allele": "N",
+   "snp_class": "delins",
+   "chrpos": "7:117559591",
+   "chrpos_prev_assm": "7:117199645",
+   "text": "",
+   "snp_id_sort": "0113993960",
+   "clinical_sort": "1",
+   "cited_sort": "",
+   "chrpos_sort": "0117559591",
+   "merged_sort": "0"
+  }
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "header": {
+  "type": "esummary",
+  "version": "0.3"
+ },
+ "result": {
+  "uids": [
+   "217",
+   "3077"
+  ],
+  "217": {
+   "uid": "217",
+   "name": "ALDH2",
+   "description": "aldehyde dehydrogenase 2 family member",
+   "status": "",
+   "currentid": "",
+   "chromosome": "12",
+   "geneticsource": "genomic",
+   "maplocation": "12q24.12",
+   "otheraliases": "ALDH I, ALDH-2, ALDH-E2, ALDHI, ALDM",
+   "otherdesignations": "aldehyde dehydrogenase, mitochondrial|ALDH class 2|acetaldehyde dehydrogenase 2|aldehyde dehydrogenase 2 family (mitochondrial)|epididymis secretory sperm binding protein|liver mitochondrial ALDH|nitroglycerin reductase ALDH2|nucleus-encoded mitochondrial aldehyde dehydrogenase 2",
+   "nomenclaturesymbol": "ALDH2",
+   "nomenclaturename": "aldehyde dehydrogenase 2 family member",
+   "nomenclaturestatus": "Official",
+   "mim": [
+    "100650"
+   ],
+   "genomicinfo": [
+    {
+     "chrloc": "12",
+     "chraccver": "NC_000012.12",
+     "chrstart": 111766932,
+     "chrstop": 111817531,
+     "exoncount": 13
+    }
+   ],
+   "geneweight": 73435,
+   "summary": "This protein belongs to the aldehyde dehydrogenase family of proteins. Aldehyde dehydrogenase is the second enzyme of the major oxidative pathway of alcohol metabolism. Two major liver isoforms of aldehyde dehydrogenase, cytosolic and mitochondrial, can be distinguished by their electrophoretic mobilities, kinetic properties, and subcellular localizations. Most Caucasians have two major isozymes, while approximately 50% of East Asians have the cytosolic isozyme but not the mitochondrial isozyme. A remarkably higher frequency of acute alcohol intoxication among East Asians than among Caucasians could be related to the absence of a catalytically active form of the mitochondrial isozyme. The increased exposure to acetaldehyde in individuals with the catalytically inactive form may also confer greater susceptibility to many types of cancer. This gene encodes a mitochondrial isoform, which has a low Km for acetaldehydes, and is localized in mitochondrial matrix. Alternative splicing results in multiple transcript variants encoding distinct isoforms.[provided by RefSeq, Nov 2016]",
+   "chrsort": "12",
+   "chrstart": 111766932,
+   "organism": {
+    "scientificname": "Homo sapiens",
+    "commonname": "human",
+    "taxid": 9606
+   }
+  },
+  "3077": {
+   "uid": "3077",
+   "name": "HFE",
+   "description": "homeostatic iron regulator",
+   "status": "",
+   "currentid": "",
+   "chromosome": "6",
+   "geneticsource": "genomic",
+   "maplocation": "6p22.2",
+   "otheraliases": "HFE1, HH, HLA-H, MVCD7, TFQTL2",
+   "otherdesignations": "hereditary hemochromatosis protein|MHC class I-like protein HFE|hereditary hemochromatosis protein HLA-H|high Fe",
+   "nomenclaturesymbol": "HFE",
+   "nomenclaturename": "homeostatic iron regulator",
+   "nomenclaturestatus": "Official",
+   "mim": [
+    "613609"
+   ],
+   "genomicinfo": [
+    {
+     "chrloc": "6",
+     "chraccver": "NC_000006.12",
+     "chrstart": 26087428,
+     "chrstop": 26098342,
+     "exoncount": 7
+    }
+   ],
+   "geneweight": 125412,
+   "summary": "The protein encoded by this gene is a membrane protein that is similar to MHC class I-type proteins and associates with beta2-microglobulin (beta2M). It is thought that this protein functions to regulate iron absorption by regulating the interaction of the transferrin receptor with transferrin. The iron storage disorder, hereditary haemochromatosis, is a recessive genetic disorder that results from defects in this gene. [provided by RefSeq, May 2022]",
+   "chrsort": "06",
+   "chrstart": 26087428,
+   "organism": {
+    "scientificname": "Homo sapiens",
+    "commonname": "human",
+    "taxid": 9606
+   }
+  }
+ }
+}
